@@ -1,0 +1,55 @@
+.example{
+    width: 500px;
+    height: auto;
+    margin-left: 500px;
+    background-color:#4c89af;
+    margin-top: 200px;
+}
+
+h1{
+    text-align: center;
+}
+h4{
+    color: rgb(0, 0, 3);
+    margin-left: 90px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    padding-top: 50px;
+}
+h3{
+    color: rgb(255, 255, 255);
+    margin-left: 180px;
+    margin-top: -40px;
+}
+.b1{
+    margin-left: 90px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #7c9baf;
+    width: auto;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.b2{
+    margin-left: 180px;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #7c9baf;
+    width: auto;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+    border-radius: 50%;
+}

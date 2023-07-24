@@ -1,0 +1,152 @@
+
+.create {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 900px;
+
+  }
+  
+  .create-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .create-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #50978b;
+  }
+  
+  .create-fieldd {
+    font-size: 18px;
+    color: #777;
+  }
+  
+  .create-cardss {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    width: 1500px;
+    padding-right: 450px;
+  
+  }
+  
+  .create-cardd {
+    background-color:#104e4e;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    height: 700px;
+  }
+  
+  .create-cardd:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-image {
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+    height: 100px;
+    margin-bottom: 20px;
+    width: 150px;
+  }
+  
+
+  
+  
+  
+  .card-detailss {
+    padding: 0 10px;
+  }
+  
+  .card-namee {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: -100px;
+    margin-left: 90px;
+  }
+  
+  .card-fieldd {
+    font-size: 16px;
+    color: #ebebeb;
+    margin-bottom: 20px;
+    height: 80px;
+    overflow: hidden;
+    margin-left: 90px;
+  }
+  
+  .card-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #50978b;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .card-link:hover {
+    background-color: #156a5f;
+  }
+  /* * {
+	box-sizing: border-box;
+} */
+.hhh{
+    color: #f5ffff;
+    
+}
+
+.schedule{
+ 
+    background-color:#104e4e;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+   width: 400px;
+   height: 280px;
+   
+}
+.schedules{
+  display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    width: 250px;
+    margin-left: 300px;
+}
+.schedule:hover{
+  
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  
+}
+.card-date{
+  border-radius: 50%;
+  height: 4rem;
+  width: 5rem;
+  background-color: #156a5f;
+  color: #fdfdfd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-fiel{
+  text-align:justify;
+  margin-left: 90px;
+  margin-top: -25px;
+}
+
+.card-nam{
+ text-align:justify;
+ margin-left: 90px;
+ margin-top: -50px;
+ color: white;
+}
